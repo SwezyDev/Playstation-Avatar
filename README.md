@@ -78,7 +78,7 @@ The program provides a **clean CLI interface** with a **beautiful gradient logo*
 │ └─ preview.png ➔ A screenshot of the Program running
 ├─ main.py ➔ Main program logic and CLI
 ├─ LICENSE ➔ License file
-└─ README.md ➔ This file
+└─ README.md ➔ Read me file
 ```
 
 ---
