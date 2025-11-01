@@ -130,4 +130,9 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 This project is made for **fun, learning, and personalization**.
 Use responsibly — do **not** spam, exploit, or automate beyond personal use.
 
+---
+
+## 🚨 Disclaimer
+This project is unofficial and not affiliated with, endorsed by, or sponsored by PlayStation or Sony Interactive Entertainment.
+
 > “Some avatars deserve to be seen again.” 🎮✨
