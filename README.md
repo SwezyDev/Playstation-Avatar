@@ -126,7 +126,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ---
 
 ## 🚨 Disclaimer
-This project is unofficial and not affiliated with, endorsed by, or sponsored by PlayStation or Sony Interactive Entertainment.
+This project is **unofficial and not affiliated with, endorsed by, or sponsored by PlayStation or Sony Interactive Entertainment** in any way.
 
 ---
 
