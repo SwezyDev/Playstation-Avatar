@@ -88,7 +88,7 @@ The program provides a **clean CLI interface** with a **beautiful gradient logo*
 <p align="center">
   <img src="https://img.shields.io/badge/UI-Gradient%20CLI-blueviolet?style=for-the-badge"/>
   <br><br>
-  <img src="https://github.com/SwezyDev/Playstation-Avatar/assets/preview.png" width="600" alt="Program preview">
+  <img src="https://github.com/SwezyDev/Playstation-Avatar/blob/main/assets/preview.png?raw=true" width="600" alt="Program preview">
 </p>
 
 ---
