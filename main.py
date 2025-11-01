@@ -87,8 +87,8 @@ class utility:
 
 class functions:
     def avatar():
-        os.system("cls") # Clear the console
-        os.system("mode 135,30") # Set console size
+        os.system("cls" if os.name == "nt" else "clear") # Clear the console
+        os.system("mode 135,30" if os.name == "nt" else "printf '\e[8;30;135t'") # Set console size
         gradient_print(utility.logo, start_color=Color.sky_blue, end_color=Color.ghost_white) # Print logo with a nice color gradient
 
         # How to get your Playstation Account Token:
@@ -149,8 +149,8 @@ class functions:
     #########################################################################################################################################################################################################################################
 
     def preview():
-        os.system("cls") # Clear the console
-        os.system("mode 135,30") # Set console size
+        os.system("cls" if os.name == "nt" else "clear") # Clear the console
+        os.system("mode 135,30" if os.name == "nt" else "printf '\e[8;30;135t'") # Set console size
         gradient_print(utility.logo, start_color=Color.sky_blue, end_color=Color.ghost_white) # Print logo with a nice color gradient
 
         # Get the Avatar ID from https://psprices.com/
@@ -193,7 +193,7 @@ class functions:
         if success: # If successful
             print() # New line for better readability
             print(f"{Fore.RESET} [{Fore.LIGHTGREEN_EX}+{Fore.RESET}] View the Avatar in your Browser") # Informational message
-            os.system(f'start {result}') # Open the avatar preview URL in the default browser
+            os.system(f'start {result}' if os.name == "nt" else f'xdg-open {result}') # Open the avatar preview URL in the default browser
         else:
             print() # New line for better readability
             print(f"{Fore.RESET} [{Fore.RED}!{Fore.RESET}] Could not fetch avatar preview because:{Fore.RED} {result}") # Failure message
@@ -203,8 +203,8 @@ class functions:
         print(f"{Fore.RESET} [{Fore.RED}!{Fore.RESET}] Invalid choice! Please restart the program and select a valid option from the menu.") # Error message
 
 def main():
-    os.system("cls") # Clear the console
-    os.system("mode 135,30") # Set console size
+    os.system("cls" if os.name == "nt" else "clear") # Clear the console
+    os.system("mode 135,30" if os.name == "nt" else "printf '\e[8;30;135t'") # Set console size
     gradient_print(utility.logo, start_color=Color.sky_blue, end_color=Color.ghost_white) # Print logo with a nice color gradient
     gradient_print(utility.menu, start_color=Color.sky_blue, end_color=Color.ghost_white) # Print menu with a nice color gradient
 
