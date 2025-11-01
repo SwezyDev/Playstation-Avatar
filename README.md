@@ -24,7 +24,7 @@ The program provides a **clean CLI interface** with a **beautiful gradient logo*
 
 ## ✨ Features
 
-* 🛒 **Add Avatars to Your Cart** — Quickly add any avatar to your PlayStation cart using the avatar ID and your Playstation Token.
+* 🛒 **Add Avatars to Your Cart** — Quickly add any avatar to your PlayStation cart using the avatar ID and your PlayStation Token.
 * 👀 **Preview Avatars** — Instantly view a high-resolution preview of any PlayStation avatar in your browser.
 * 🧠 **Secure Input** — Protects your PlayStation account token using [secure-input](https://github.com/SwezyDev/secure_input).
 * 🌈 **Aesthetic CLI** — Beautiful color gradients and interactive menus for a premium feel.
