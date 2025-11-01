@@ -34,7 +34,7 @@ The program provides a **clean CLI interface** with a **beautiful gradient logo*
 
 ## 🧭 How It Works
 
-1. Run the tool (`python main.py` or similar).
+1. Run the tool (`python main.py`).
 2. Choose one of the two options:
 
    * `[1] Add Avatar to Cart`
