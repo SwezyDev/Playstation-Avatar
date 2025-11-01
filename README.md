@@ -65,7 +65,7 @@ The program provides a **clean CLI interface** with a **beautiful gradient logo*
 
 1. Go to [https://www.playstation.com/](https://www.playstation.com/) and log into your account.
 2. Press **F12** to open **Developer Tools**.
-3. Go to the **Application** tab → **Cookies** → `https://www.playstation.com`.
+3. Go to the **Application** tab ➔ **Cookies** ➔ `https://www.playstation.com`.
 4. Find the cookie named **pdccws_p**.
 5. Copy its value — that's your **PlayStation Account Token**.
 
