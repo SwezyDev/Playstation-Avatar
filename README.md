@@ -22,6 +22,12 @@ The program provides a **clean CLI interface** with a **beautiful gradient logo*
 
 ---
 
+## 🤖 Discord Bot
+> [!TIP]
+> We also offer **a Free 24/7 Hosted Discord Bot** you can use from all Devices, [click me to add the bot to your Server!](https://discord.com/oauth2/authorize?client_id=1434390847910187123)
+
+---
+
 ## ✨ Features
 
 * 🛒 **Add Avatars to Your Cart** — Quickly add any avatar to your PlayStation cart using the avatar ID and your PlayStation Token.
