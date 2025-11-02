@@ -60,7 +60,7 @@ The program provides a **clean CLI interface** with a **beautiful gradient logo*
 * 📦 Dependencies:
 
   ```bash
-  pip install rgbprint colorama secure_input requests
+  pip install rgbprint colorama secure-input requests
   ```
 * 🌐 Internet connection
 * 👤 A valid PlayStation account token (explained below)
