@@ -21,7 +21,7 @@ class utility:
                                                     ╔═══                    ═══╗
                                                        [1] Add Avatar to Cart   
                                                        [2] Preview Avatar
-                                                    ╚═══                    ═══╝"""
+                                                    ╚═══                    ═══╝""" # Menu art
 
     valid_regions = ["ar-AE", "ar-SA", "ar-KW", "ar-QA", "ar-OM", "ar-BH", "ar-LB", "ch-HK",
 "ch-TW", "cs-CZ", "da-DK", "de-AT", "de-CH", "de-DE", "de-LU", "el-GR",
